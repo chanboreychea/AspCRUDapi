@@ -1,0 +1,188 @@
+  Determining projects to restore...
+  Writing C:\Users\borey\AppData\Local\Temp\tmpnp4drw.tmp
+info : X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+info : X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+info : Adding PackageReference for package 'Microsoft.AspNetCore.Identity' into project 'D:\Asp\PizzaStore\PizzaStore.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.identity/index.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.identity/index.json 1051ms
+info : Restoring packages for D:\Asp\PizzaStore\PizzaStore.csproj...
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.identity/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.identity/index.json 981ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.identity/2.2.0/microsoft.aspnetcore.identity.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.identity/2.2.0/microsoft.aspnetcore.identity.2.2.0.nupkg 3ms
+info :   CACHE https://api.nuget.org/v3-flatcontainer/microsoft.extensions.identity.core/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.cookies/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.abstractions/index.json
+info :   CACHE https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.keyderivation/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.identity.core/2.2.0/microsoft.extensions.identity.core.2.2.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.keyderivation/2.2.0/microsoft.aspnetcore.cryptography.keyderivation.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.keyderivation/2.2.0/microsoft.aspnetcore.cryptography.keyderivation.2.2.0.nupkg 8ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.identity.core/2.2.0/microsoft.extensions.identity.core.2.2.0.nupkg 13ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.cookies/index.json 950ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.cookies/2.2.0/microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.cookies/2.2.0/microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.abstractions/index.json 958ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.abstractions/2.2.0/microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.abstractions/2.2.0/microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg 2ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.server.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.abstractions/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication/index.json 236ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg 2ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.core/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.extensions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.webencoders/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.server.abstractions/index.json 950ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.server.abstractions/2.2.0/microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.abstractions/index.json 979ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/index.json 984ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/2.2.0/microsoft.extensions.hosting.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/index.json 942ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.core/index.json 948ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection/index.json 951ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.extensions/index.json 953ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection/2.2.0/microsoft.aspnetcore.dataprotection.2.2.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.webencoders/index.json 957ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection/2.2.0/microsoft.aspnetcore.dataprotection.2.2.0.nupkg 4ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http/index.json 960ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.webencoders/2.2.0/microsoft.extensions.webencoders.2.2.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http/2.2.0/microsoft.aspnetcore.http.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.webencoders/2.2.0/microsoft.extensions.webencoders.2.2.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/index.json 965ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/2.2.0/microsoft.extensions.options.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting.abstractions/2.2.0/microsoft.extensions.hosting.abstractions.2.2.0.nupkg 240ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/2.2.0/microsoft.extensions.options.2.2.0.nupkg 239ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.hosting.server.abstractions/2.2.0/microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg 947ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.features/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg 936ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg 964ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg 966ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg 960ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection.abstractions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.win32.registry/index.json
+info :   CACHE https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.internal/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.internal/2.2.0/microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.internal/2.2.0/microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/index.json 240ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http/2.2.0/microsoft.aspnetcore.http.2.2.0.nupkg 968ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.cryptography.xml/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.webutilities/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.net.http.headers/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.objectpool/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.buffers/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.win32.registry/index.json 239ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.win32.registry/4.5.0/microsoft.win32.registry.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.win32.registry/4.5.0/microsoft.win32.registry.4.5.0.nupkg 3ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.features/index.json 954ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/index.json 944ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/index.json 957ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/index.json 959ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/2.2.0/microsoft.extensions.configuration.abstractions.2.2.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/2.2.0/microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/index.json 921ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.abstractions/index.json 948ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection.abstractions/index.json 957ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.net.http.headers/index.json 942ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection.abstractions/2.2.0/microsoft.aspnetcore.dataprotection.abstractions.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg 2ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.dataprotection.abstractions/2.2.0/microsoft.aspnetcore.dataprotection.abstractions.2.2.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.webutilities/index.json 956ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.cryptography.xml/index.json 967ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.cryptography.xml/4.5.0/system.security.cryptography.xml.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.cryptography.xml/4.5.0/system.security.cryptography.xml.4.5.0.nupkg 2ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.objectpool/index.json 967ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.objectpool/2.2.0/microsoft.extensions.objectpool.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.buffers/index.json 973ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.0/system.buffers.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.configuration.abstractions/2.2.0/microsoft.extensions.configuration.abstractions.2.2.0.nupkg 947ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/2.2.0/microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg 946ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg 953ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg 960ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.permissions/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg 946ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/index.json 240ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg 950ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.objectpool/2.2.0/microsoft.extensions.objectpool.2.2.0.nupkg 943ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.0/system.buffers.4.5.0.nupkg 943ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg 239ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/index.json 942ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.permissions/index.json 949ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg 2ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg 3ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/index.json 960ms
+info :   GET https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/4.5.0/system.security.cryptography.pkcs.4.5.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/4.5.0/system.security.cryptography.pkcs.4.5.0.nupkg 2ms
+info : Installed Microsoft.AspNetCore.WebUtilities 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.webutilities\2.2.0 with content hash 9ErxAAKaDzxXASB/b5uLEkLgUWv1QbeVxyJYEHQwMaxXOeFFVkQxiq8RyfVcifLU7NR0QY0p3acqx4ZpYfhHDg==.
+info : Installed Microsoft.Net.Http.Headers 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.net.http.headers\2.2.0 with content hash iZNkjYqlo8sIOI0bQfpsSoMTmB/kyvmV2h225ihyZT33aTp48ZpF6qYnXxzSXmHt8DpBAwBTX+1s1UFLbYfZKg==.
+info : Installed Microsoft.AspNetCore.Authentication.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.authentication.abstractions\2.2.0 with content hash VloMLDJMf3n/9ic5lCBOa42IBYJgyB1JhzLsL68Zqg+2bEPWfGBj/xCJy/LrKTArN0coOcZp3wyVTZlx0y9pHQ==.
+info : Installed Microsoft.AspNetCore.Http.Features 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.http.features\2.2.0 with content hash ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==.
+info : Installed Microsoft.Extensions.FileProviders.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.fileproviders.abstractions\2.2.0 with content hash EcnaSsPTqx2MGnHrmWOD0ugbuuqVT8iICqSqPzi45V5/MA1LjUNb0kwgcxBGqizV1R+WeBK7/Gw25Jzkyk9bIw==.
+info : Installed Microsoft.Extensions.Primitives 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.primitives\2.2.0 with content hash azyQtqbm4fSaDzZHD/J+V6oWMFaf2tWP4WEGIYePLCMw3+b2RQdj9ybgbQyjCshcitQKQ4lEDOZjmSlTTrHxUg==.
+info : Installed Microsoft.Extensions.ObjectPool 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.objectpool\2.2.0 with content hash gA8H7uQOnM5gb+L0uTNjViHYr+hRDqCdfugheGo/MxQnuHzmhhzCBTIPm19qL1z1Xe0NEMabfcOBGv9QghlZ8g==.
+info : Installed System.Security.Permissions 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.security.permissions\4.5.0 with content hash 9gdyuARhUR7H+p5CjyUB/zPk7/Xut3wUSP8NJQB6iZr8L3XUXTMdoLeVAg9N4rqF8oIpE7MpdqHdDHQ7XgJe0g==.
+info : Installed Microsoft.Extensions.Configuration.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.configuration.abstractions\2.2.0 with content hash 65MrmXCziWaQFrI0UHkQbesrX5wTwf9XPjY5yFm/VkgJKFJ5gqvXRoXjIZcf2wLi5ZlwGz/oMYfyURVCWbM5iw==.
+info : Installed System.Buffers 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.buffers\4.5.0 with content hash pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==.
+info : Installed Microsoft.AspNetCore.Authentication.Cookies 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.authentication.cookies\2.2.0 with content hash Iar9VFlBHkZGdSG9ZUTmn6Q8Qg+6CtW5G/TyJI2F8B432TOH+nZlkU7O0W0byow6xsxqOYeTviSHz4cCJ3amfQ==.
+info : Installed Microsoft.AspNetCore.Identity 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.identity\2.2.0 with content hash F16BKeS96wKhyIyhaFR7m8kRIwIvPUW9Dx7IlGWmu2IIwnUDCdo+2z7IrWKA8r77pZQ1UE9kYcBPg5456YdAIA==.
+info : Installed Microsoft.AspNetCore.Cryptography.KeyDerivation 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.cryptography.keyderivation\2.2.0 with content hash NCY0PH3nrFYbhqiq72rwWsUXlV4OAE0MOukvGvIBOTnEPMC1yVL42k1DXLnaIu+c0yfMAxIIG9Iuaykp9BQQQw==.
+info : Installed System.Text.Encodings.Web 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.text.encodings.web\4.5.0 with content hash Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==.
+info : Installed Microsoft.Extensions.Identity.Core 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.identity.core\2.2.0 with content hash /C+Valwg8IeUwDIunusittHivA9iyf82Jr1yeUFWO2zH2mDMMeYgjRyDLZqfL/7Vq94PEQsgv1XAaDfAX8msMw==.
+info : Installed System.Security.Cryptography.Pkcs 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.security.cryptography.pkcs\4.5.0 with content hash TGQX51gxpY3K3I6LJlE2LAftVlIMqJf0cBGhz68Y89jjk3LJCB6SrwiD+YN1fkqemBvWGs+GjyMJukl6d6goyQ==.
+info : Installed Microsoft.AspNetCore.Hosting.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.hosting.abstractions\2.2.0 with content hash ubycklv+ZY7Kutdwuy1W4upWcZ6VFR8WUXU7l7B2+mvbDBBPAcfpi+E+Y5GFe+Q157YfA3C49D2GCjAZc7Mobw==.
+info : Installed Microsoft.AspNetCore.Cryptography.Internal 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.cryptography.internal\2.2.0 with content hash GXmMD8/vuTLPLvKzKEPz/4vapC5e0cwx1tUVd83ePRyWF9CCrn/pg4/1I+tGkQqFLPvi3nlI2QtPtC6MQN8Nww==.
+info : Installed System.Security.Cryptography.Xml 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.security.cryptography.xml\4.5.0 with content hash i2Jn6rGXR63J0zIklImGRkDIJL4b1NfPSEbIVHBlqoIb12lfXIigCbDRpDmIEzwSo/v1U5y/rYJdzZYSyCWxvg==.
+info : Installed Microsoft.Extensions.Options 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.options\2.2.0 with content hash UpZLNLBpIZ0GTebShui7xXYh6DmBHjWM8NxGxZbdQh/bPZ5e6YswqI+bru6BnEL5eWiOdodsXtEz3FROcgi/qg==.
+info : Installed Microsoft.Win32.Registry 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.win32.registry\4.5.0 with content hash +FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==.
+info : Installed Microsoft.AspNetCore.Authentication 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.authentication\2.2.0 with content hash b0R9X7L6zMqNsssKDvhYHuNi5x0s4DyHTeXybIAyGaitKiW1Q5aAGKdV2codHPiePv9yHfC9hAMyScXQ/xXhPw==.
+info : Installed Microsoft.AspNetCore.Hosting.Server.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.hosting.server.abstractions\2.2.0 with content hash 1PMijw8RMtuQF60SsD/JlKtVfvh4NORAhF4wjysdABhlhTrYmtgssqyncR0Stq5vqtjplZcj6kbT4LRTglt9IQ==.
+info : Installed System.Security.AccessControl 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.security.accesscontrol\4.5.0 with content hash vW8Eoq0TMyz5vAG/6ce483x/CP83fgm4SJe5P8Tb1tZaobcvPrbMEL7rhH1DRdrYbbb6F0vq3OlzmK0Pkwks5A==.
+info : Installed Microsoft.Extensions.Hosting.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.hosting.abstractions\2.2.0 with content hash +k4AEn68HOJat5gj1TWa6X28WlirNQO9sPIIeQbia+91n03esEtMSSoekSTpMjUzjqtJWQN3McVx0GvSPFHF/Q==.
+info : Installed Microsoft.AspNetCore.Http.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.http.abstractions\2.2.0 with content hash Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==.
+info : Installed Microsoft.AspNetCore.Authentication.Core 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.authentication.core\2.2.0 with content hash XlVJzJ5wPOYW+Y0J6Q/LVTEyfS4ssLXmt60T0SPP+D8abVhBTl+cgw2gDHlyKYIkcJg7btMVh383NDkMVqD/fg==.
+info : Installed Microsoft.AspNetCore.Http 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.http\2.2.0 with content hash YogBSMotWPAS/X5967pZ+yyWPQkThxhmzAwyCHCSSldzYBkW5W5d6oPfBaPqQOnSHYTpSOSOkpZoAce0vwb6+A==.
+info : Installed Microsoft.AspNetCore.DataProtection 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.dataprotection\2.2.0 with content hash G6dvu5Nd2vjpYbzazZ//qBFbSEf2wmBUbyAR7E4AwO3gWjhoJD5YxpThcGJb7oE3VUcW65SVMXT+cPCiiBg8Sg==.
+info : Installed Microsoft.AspNetCore.Http.Extensions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.http.extensions\2.2.0 with content hash 2DgZ9rWrJtuR7RYiew01nGRzuQBDaGHGmK56Rk54vsLLsCdzuFUPqbDTJCS1qJQWTbmbIQ9wGIOjpxA1t0l7/w==.
+info : Installed Microsoft.Extensions.Logging.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.logging.abstractions\2.2.0 with content hash B2WqEox8o+4KUOpL7rZPyh6qYjik8tHi2tN8Z9jZkHzED8ElYgZa/h6K+xliB435SqUcWT290Fr2aa8BtZjn8A==.
+info : Installed Microsoft.Extensions.WebEncoders 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.webencoders\2.2.0 with content hash V8XcqYcpcdBAxUhLeyYcuKmxu4CtNQA9IphTnARpQGhkop4A93v2XgM3AtaVVJo3H2cDWxWM6aeO8HxkifREqw==.
+info : Installed Microsoft.AspNetCore.DataProtection.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.aspnetcore.dataprotection.abstractions\2.2.0 with content hash seANFXmp8mb5Y12m1ShiElJ3ZdOT3mBN3wA1GPhHJIvZ/BxOCPyqEOR+810OWsxEZwA5r5fDRNpG/CqiJmQnJg==.
+info : Installed Microsoft.Extensions.DependencyInjection.Abstractions 2.2.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.2.0 with content hash f9hstgjVmr6rmrfGSpfsVOl2irKAgr1QjrSi3FgnS7kulxband50f2brRLwySAQTADPZeTdow0mpSMcoAdadCw==.
+info : Installed System.Security.Principal.Windows 4.5.0 from https://api.nuget.org/v3/index.json to C:\Users\borey\.nuget\packages\system.security.principal.windows\4.5.0 with content hash U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==.
+info :   CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2024.11.25.23.06.43/vulnerability.base.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2024.11.26.11.06.45/2024.11.26.11.06.45/vulnerability.update.json
+warn : NU1902: Package 'System.Security.Cryptography.Xml' 4.5.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vh55-786g-wjwj
+info : Package 'Microsoft.AspNetCore.Identity' is compatible with all the specified frameworks in project 'D:\Asp\PizzaStore\PizzaStore.csproj'.
+info : PackageReference for package 'Microsoft.AspNetCore.Identity' version '2.2.0' added to file 'D:\Asp\PizzaStore\PizzaStore.csproj'.
+info : Writing assets file to disk. Path: D:\Asp\PizzaStore\obj\project.assets.json
+log  : Restored D:\Asp\PizzaStore\PizzaStore.csproj (in 7.65 sec).
